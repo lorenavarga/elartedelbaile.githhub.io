@@ -1,0 +1,75 @@
+.encabezado{
+    background-color:rgb(139, 16, 170);
+    text-shadow: 3px 5px 5px gray;
+    color:white;
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    }
+    
+    .descripcion{
+    text-align:center;
+    border: 2px solid rgb(78, 13, 139);
+    background-color: #fff;
+    margin: 10px 100px;
+    }
+    
+    h3{
+    color:rgb(29, 28, 23);
+    background-color:rgb(206, 179, 138);}
+    
+    img{
+    height:auto;
+    margin:auto;
+    display:block}
+    
+    .borde{
+    display:inline-block;
+    background:#E3E6E9;
+    border: 1px solid rgb(77, 187, 123);
+    font-family:monospace;
+    }
+    
+    table,td{
+    border:2px solid rgb(214, 39, 39);width:500px; height:50px;
+    background-color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right:auto;
+    cursor: pointer;
+    }
+    
+    th{
+    background-color:rgb(70, 121, 187);
+    color:white;
+    text-align:center}
+    
+    body{
+    background-color:rgb(211, 221,238);
+    margin:50px;
+    padding:80px;
+    border:solid 40px rgb(48, 73,94);
+    outline:5px solid white;
+    text-align:justify;
+    font-size:20px;
+    }
+
+nav.menu-principal{
+   background-color: rgb(43, 42, 42);
+   color: white;
+   padding:10px 0;         
+text-align: center; }
+
+nav.menu-principal li{
+   display:inline;
+   margin:0 15px;}
+
+nav.menu-principal a{
+   color:white;
+   text-decoration:none;
+   font-weight:bold;}
+
+
+
+
+
